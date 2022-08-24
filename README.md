@@ -5,7 +5,7 @@
 
 ## Assignment Specs 
 
-The game of Hearts[^1] is a trick-taking game where the goal to score as *few
+The game of Hearts is a trick-taking game where the goal to score as *few
 points* as possible.  All cards in the Hearts are worth one point, and the
 Queen of Spade is worth 13.  Your task will be to implement a simple AI to beat
 other players (students and staff) at this game.
