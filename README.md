@@ -1,7 +1,7 @@
 # Functional Programming Assignment: Hearts
 **Task : Implement an AI agent that plays a trick-based card game called Hearts.**    
-- My implementation can be found in Player.hs  
-- The logics / strategies I used is discussed in detail in the Player.hs file
+- My implementation can be found in [Player.hs](https://github.com/yezeahew/hearts-ai-player/blob/main/staticgame/Player.hs)  
+- The logics / strategies I used is discussed in detail in [Player.hs](https://github.com/yezeahew/hearts-ai-player/blob/main/staticgame/Player.hs) 
 
 ## Assignment Specs 
 
